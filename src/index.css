@@ -716,7 +716,8 @@ section {
 
 .current-shows {
 	color: #2487ce;
-	border-bottom: 5px solid #313538;
+	border-bottom: 5px solid #2a3442;
+	border-radius: 2px;
 	width: fit-content;
 	margin: 4rem auto;
 }

@@ -6,8 +6,8 @@ const Hero = () => {
 			<div className='container position-relative' data-aos='fade-up' data-aos-delay='100'>
 				<div className='row justify-content-center'>
 					<div className='col-xl-7 col-lg-9 text-center'>
-						<h1>QuadB Shows</h1>
-						<h2>World's best shows booking site</h2>
+						<h1>QuadB Bookings</h1>
+						<h2>Your Ultimate Destination for Show Tickets and Reservations!</h2>
 					</div>
 				</div>
 				<div className='text-center'>

@@ -12,7 +12,7 @@ const Navbar = () => {
 		<header id='header' className='fixed-top'>
 			<div className='container d-flex align-items-center justify-content-between'>
 				<h1 className='logo'>
-					<Link to='/'>QuadB</Link>
+					<Link to='/'>QuadB Bookings</Link>
 				</h1>
 
 				<nav id='navbar' className={collapse ? 'navbar navbar-mobile' : 'navbar'}>
