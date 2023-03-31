@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
 	return (
-		<section id='hero' className='d-flex align-items-center'>
+		<section id='hero' className='d-flex align-items-center' style={{ minHeight: '100vh' }}>
 			<div className='container position-relative' data-aos='fade-up' data-aos-delay='100'>
 				<div className='row justify-content-center'>
 					<div className='col-xl-7 col-lg-9 text-center'>
